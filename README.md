@@ -1,5 +1,4 @@
 # Industry-Immersion-education-chatbot
-# Industry-Immersion-education-chatbot
 # 🎓 education-chatbot — Education LLM Chatbot
 
 A **domain-specific AI chatbot** for the **Education & Training industry**, built using modern LLM techniques like **QLoRA fine-tuning, RAG (FAISS), LangChain, and Groq LLaMA-3.3-70B**.
